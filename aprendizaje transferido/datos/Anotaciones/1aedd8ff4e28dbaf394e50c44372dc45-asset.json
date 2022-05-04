@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "1aedd8ff4e28dbaf394e50c44372dc45",
+        "name": "DJI_0148.JPG",
+        "path": "file:/home/gonzalo/Escritorio/CONICET/MDPI/YOLO-MDPI/TrainYourOwnYOLO/Data/Source_Images/Training_Images/DJI_0148.JPG",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fwDLbcv2E",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 108.99121265377856,
+                "width": 269.15415019762844,
+                "left": 1825.4018445322793,
+                "top": 2929.940246045694
+            },
+            "points": [
+                {
+                    "x": 1825.4018445322793,
+                    "y": 2929.940246045694
+                },
+                {
+                    "x": 2094.5559947299075,
+                    "y": 2929.940246045694
+                },
+                {
+                    "x": 2094.5559947299075,
+                    "y": 3038.931458699473
+                },
+                {
+                    "x": 1825.4018445322793,
+                    "y": 3038.931458699473
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
