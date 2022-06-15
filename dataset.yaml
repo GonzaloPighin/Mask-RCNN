@@ -8,9 +8,12 @@
 
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 ruta: ../datasets/yacares  # Directorio raíz del set de datos.
-train: imagenes/entrenamiento  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
-val: imagenes/entrenamiento  # Imágenes de validación (relativas a 'ruta') - 100 imágenes
-test: imagenes/prueba # Imágenes de prueba (relativas a 'ruta') - ?? imágenes
+train: data/images  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
+val: data/images  # Imágenes de validación (relativas a 'ruta') - 100 imágenes
+test: data/images # Imágenes de prueba (relativas a 'ruta') - ?? imágenes
+#train: imagenes/entrenamiento  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
+#val: imagenes/entrenamiento  # Imágenes de validación (relativas a 'ruta') - 100 imágenes
+#test: imagenes/prueba # Imágenes de prueba (relativas a 'ruta') - ?? imágenes
 
 # Clases
 
