@@ -19,3 +19,4 @@ test: data/images # Imágenes de prueba (relativas a 'ruta') - ?? imágenes
 
 nc: 4 # número de clases: 4
 clases: ['yacaré', 'vaca','tortuga','pájaro'] # nombre de las clases:  (yacaré, vaca, tortuga y pájaro)
+names: ['yacaré', 'vaca','tortuga','pájaro'] # nombre de las clases:  (yacaré, vaca, tortuga y pájaro)]
