@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "73d6cf687cfddac01acb421acdef073d",
+        "name": "DJI_0354.JPG",
+        "path": "file:/home/gonzalo/Escritorio/Mask-RCNN-main/test/DJI_0354.JPG",
+        "size": {
+            "width": 4864,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N6RpKikmq",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 237.21616871704745,
+                "width": 211.47826086956522,
+                "left": 1428.0790513833992,
+                "top": 89.75746924428822
+            },
+            "points": [
+                {
+                    "x": 1428.0790513833992,
+                    "y": 89.75746924428822
+                },
+                {
+                    "x": 1639.5573122529643,
+                    "y": 89.75746924428822
+                },
+                {
+                    "x": 1639.5573122529643,
+                    "y": 326.97363796133567
+                },
+                {
+                    "x": 1428.0790513833992,
+                    "y": 326.97363796133567
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
