@@ -11,7 +11,7 @@
 ruta: ../datasets/yacares  # Directorio raíz del set de datos.
 train: data/images/entrenamiento  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
 val: data/images/validacion  # Imágenes de validación (relativas a 'ruta') - 100 imágenes
-test: data/test # Imágenes de prueba (relativas a 'ruta') - 24 imágenes
+test: data/images/prueba # Imágenes de prueba (relativas a 'ruta') - 24 imágenes
 
 #ruta: ../datasets/yacares  # Directorio raíz del set de datos.
 #train: data/images  # Imágenes de entrenamiento (relativas a 'ruta') 100 - imágenes
