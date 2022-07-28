@@ -1,0 +1,16 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "d12f2b92d3434bac1332ac1234c45ea7",
+        "name": "DJI_0679.JPG",
+        "path": "file:/home/gonzalo/Escritorio/Mask-RCNN-main/test/DJI_0679.JPG",
+        "size": {
+            "width": 5472,
+            "height": 3648
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": []
+    "version": "2.2.0"
+}
