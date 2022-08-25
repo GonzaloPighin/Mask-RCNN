@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "cb3baf1649010f8c02c48949c706ea90",
+        "name": "DJI_0002.JPG",
+        "path": "file:/home/gonzalo/Escritorio/50%20candidatos%20a%20test/DJI_0002.JPG",
+        "size": {
+            "width": 5472,
+            "height": 3078
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "lfcHHg-HH",
+            "type": "RECTANGLE",
+            "tags": [
+                "yacaré"
+            ],
+            "boundingBox": {
+                "height": 104.02783300198807,
+                "width": 195.64692737430167,
+                "left": 2470.0424581005586,
+                "top": 1592.352509940358
+            },
+            "points": [
+                {
+                    "x": 2470.0424581005586,
+                    "y": 1592.352509940358
+                },
+                {
+                    "x": 2665.68938547486,
+                    "y": 1592.352509940358
+                },
+                {
+                    "x": 2665.68938547486,
+                    "y": 1696.380342942346
+                },
+                {
+                    "x": 2470.0424581005586,
+                    "y": 1696.380342942346
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
